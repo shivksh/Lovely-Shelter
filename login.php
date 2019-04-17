@@ -31,5 +31,6 @@ $error = "Username or Password is invalid";
 }
 mysqli_close($connection); // Closing Connection
 }
+  
 }
 ?>
