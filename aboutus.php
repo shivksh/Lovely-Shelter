@@ -5,7 +5,7 @@ if( session_status() == PHP_SESSION_NONE ) // if session status is none then sta
      session_start();
 }
 
-?
+?>
 <html lang="en">
 <head>
   <title>Lovely Shelter</title>
