@@ -33,7 +33,7 @@ if( ( isset($_SESSION['login_user']) ) ) // if the session is no  set then start
 
 }
 
-include('ab1.p'); 
+include('ab1.php'); 
 ?> 
 
 
